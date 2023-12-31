@@ -39,6 +39,7 @@ public:
          cout << "No cars to exit. Parking lot is empty for cars.\n";
                 }
                 break;
+                //this is changed
             case 'b':
                 if (bikeCount > 0) {
                     bikeCount--;
